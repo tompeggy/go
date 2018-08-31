@@ -3,8 +3,12 @@
 https://blog.csdn.net/hehexiaoxia/article/details/69942931
 https://www.howtoing.com/install-go-on-ubuntu
 
+
 # 程式教學
 http://golang-zhtw.netdpi.net/02_the_first_program
+
+https://www.kancloud.cn/itfanr/go-by-example/81667
+
 
 # Git教學
 https://medium.com/@s110319022/github-%E5%85%A5%E9%96%80-%E4%BA%8C-%E4%BD%BF%E7%94%A8%E7%B5%82%E7%AB%AF%E6%A9%9F%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E5%88%B0github-cfa55e1903fa
