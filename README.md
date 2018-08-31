@@ -25,3 +25,6 @@ https://github.com/eclipse/paho.mqtt.golang
 
 說明MQTT用go來開發
 https://github.com/yosssi/gmq
+
+提出signal的看法
+https://colobu.com/2015/10/09/Linux-Signals/
