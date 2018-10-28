@@ -26,7 +26,7 @@ git status(縮寫為 git st) 就是確認專案資料夾裡面是否有檔案新
 第八步，git push
 
 
-MQTT & Go
+# MQTT & Go
 https://github.com/eclipse/paho.mqtt.golang
 
 
@@ -40,3 +40,5 @@ https://colobu.com/2015/10/09/Linux-Signals/
 
 https://github.com/ashmckenzie/go-mqti
 
+# Go 的日誌
+http://www.flysnow.org/2017/05/06/go-in-action-go-log.html
