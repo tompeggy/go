@@ -1,5 +1,8 @@
 # go
 安裝教學
+
+https://medium.com/@patdhlk/how-to-install-go-1-9-1-on-ubuntu-16-04-ee64c073cd79
+
 https://blog.csdn.net/tao_627/article/details/79375950
 
 https://blog.csdn.net/hehexiaoxia/article/details/69942931
